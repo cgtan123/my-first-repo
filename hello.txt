@@ -1,1 +1,4 @@
 Hello, Git! 
+Basic operations 101
+For the second commit
+From GitHub 
